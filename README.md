@@ -55,8 +55,8 @@ A fully functional Twitter/X clone built with vanilla HTML, CSS, and JavaScript.
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/x-clone.git
-cd x-clone
+git clone https://github.com/utsavdwivedi51/x-Twitter-Clone.git
+cd x-Twitter-Clone
 ```
 
 2. **Open the application**
