@@ -10,7 +10,6 @@ A fully functional Twitter/X clone built with vanilla HTML, CSS, and JavaScript.
 - [Project Structure](#-project-structure)
 - [Technologies Used](#-technologies-used)
 - [Features in Detail](#-features-in-detail)
-- [Screenshots](#-screenshots)
 - [Contributing](#-contributing)
 - [License](#-license)
 
@@ -39,7 +38,8 @@ A fully functional Twitter/X clone built with vanilla HTML, CSS, and JavaScript.
 ##  Demo
 
 ### Live Preview
-The application runs entirely in your browser with localStorage for data persistence.
+- The application runs entirely in your browser with localStorage for data persistence.
+- Live link: https://utsavdwivedi51.github.io/X-Twitter-Clone/
 
 ### Test Accounts
 - **Guest Mode**: Click "Continue as Guest" to try instantly
@@ -184,17 +184,6 @@ x-clone/
 - Adaptive layout for tablets and desktop
 - Touch-friendly interactions
 - Smooth animations and transitions
-
-##  Screenshots
-
-### Home Feed
-![Home Feed](https://via.placeholder.com/600x400?text=Home+Feed)
-
-### Profile Page
-![Profile Page](https://via.placeholder.com/600x400?text=Profile+Page)
-
-### Messages
-![Messages](https://via.placeholder.com/600x400?text=Messages)
 
 ##  Contributing
 
